@@ -20,6 +20,9 @@ HeicToJpg windows exe 파일 체크섬[SHA256]
     2. 파일 리스트에서 파일 선택시 선택한 사진을 미리볼 수 있도록 구현
     3. JPEG, PNG 파일타입을 지정하여 변환할 수 있도록 수정
     4. 멀티 스레드 환경에서 변환을 진행하도록 수정
+  - 2026-05-10: v1.1
+    1. 간헐적으로 프로그램이 멈추거나 변환이 안 되는 버그 수정
+    2. 사진 미리보기 딜레이 현상 개선 (로딩 속도 최적화)
 
 # 사용법 Youtube
   [![Video Label](http://img.youtube.com/vi/oybSIMjcYbM/0.jpg)](https://youtu.be/oybSIMjcYbM)
